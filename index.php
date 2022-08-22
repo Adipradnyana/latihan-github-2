@@ -7,6 +7,6 @@
     <title>belajar git remote</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni molestiae neque laudantium maxime accusantium quia repellat perferendis dolorem nulla magnam quis, quisquam, eum explicabo animi aspernatur eius esse sequi dicta!</p>
 </body>
 </html>
